@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849113473586",
+    "project_id": "alarmas-comunitarias-44ee9",
+    "storage_bucket": "alarmas-comunitarias-44ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849113473586:android:ccd11036d55805cf8d522b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ1j80PtW2mZKJPxLHa3LG5OM-jwa-S3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
